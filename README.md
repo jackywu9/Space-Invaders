@@ -1,4 +1,5 @@
 **About:**
+
 Space Invaders is a classic 2D fixed-shooter arcade game where you control a laser cannon at the bottom of the screen to destroy descending waves of aliens before they reach the bottom.
 An overview of a typical Space Invaders README template and game mechanics includes:
 
@@ -14,6 +15,8 @@ An overview of a typical Space Invaders README template and game mechanics inclu
 
 • Bunkers: Stationary shields protect your ship, though enemy and player fire slowly destroys them.
 
+
+
 **Standard Controls:**
 
 • Move Left / Right: Left and Right Arrow keys
@@ -23,4 +26,5 @@ An overview of a typical Space Invaders README template and game mechanics inclu
 • Start / Restart: Enter key
 
 **Level 02 Variant:**
+
 Level 02 was developed as an extension of the original Space Invaders game. The purpose of the level was to increase the overall challenge and improve player engagement through dynamic difficulty scaling, increased enemy attack frequency, faster laser projectiles and a bonus life reward system. These modifications required changes to multiple classes including the Game and Spaceship classes while maintaining object-oriented design principles and code readability.
